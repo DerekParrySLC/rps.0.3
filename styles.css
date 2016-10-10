@@ -1,0 +1,15 @@
+
+body {
+	text-align: center;
+	margin-top: 80px;
+	cursor: default;
+}
+
+code:hover {
+	text-decoration: underline;
+}
+
+#c {
+	color: gray;
+}
+
